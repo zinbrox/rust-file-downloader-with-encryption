@@ -2,6 +2,7 @@
 
 ## Download youtube videos and images from CLI
 Built in progress bar for tracking large file download progress
+
 <img src="https://github.com/zinbrox/rust-file-downloader-with-encryption/assets/53508807/3fb218a0-f28b-4c9d-90d5-c0e6d6d4c1d9" alt="image" style="width: 500px;">
 
 Resultant file will be saved to `{project_location}/videos/{file_name}`
