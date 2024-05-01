@@ -11,6 +11,14 @@ Resultant file will be saved to `{project_location}/videos/{file_name}`
 
 <img src="https://github.com/zinbrox/rust-file-downloader-with-encryption/assets/53508807/abca4a00-360f-4eea-95b3-60dd8f61db0b" alt="image" style="width: 500px;">
 
+Download images:
+
+<img src="https://github.com/zinbrox/rust-file-downloader-with-encryption/assets/53508807/4f6f06b1-44fa-4618-b532-13660423773d" alt="image" style="width: 500px;">
+
+Resultant file:
+
+<img src="https://github.com/zinbrox/rust-file-downloader-with-encryption/assets/53508807/db5df0cb-e2ab-4a0f-8601-a793ea146cce" alt="image" style="width: 500px;">
+
 ## Encrypt files using Streaming AEAD Encryption
 Encrypted files won't be able to be opened without the key
 
